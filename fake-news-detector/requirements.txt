@@ -1,0 +1,41 @@
+# ── Core ML & Data Science ──────────────────
+pandas
+numpy
+scikit-learn
+scipy
+
+# ── NLP ─────────────────────────────────────
+nltk
+spacy
+
+# ── Deep Learning / Transformers ────────────
+torch
+transformers
+datasets
+accelerate
+
+# ── Explainability ───────────────────────────
+lime
+shap
+
+# ── Web UI ───────────────────────────────────
+streamlit
+plotly
+altair
+
+# ── Article Extraction / Live News ──────────
+requests
+newspaper3k
+newsapi-python
+
+# ── Translation ──────────────────────────────
+deep-translator
+
+# ── Utilities ────────────────────────────────
+joblib
+tqdm
+python-dotenv
+matplotlib
+seaborn
+wordcloud
+Pillow
